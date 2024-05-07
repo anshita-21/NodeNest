@@ -1,6 +1,4 @@
 # NodeNest
-
-## Description
 NodeNest is an interactive visualization tool that simplifies the learning of data structures like graphs and linked lists. It provides a hands-on experience, allowing users to:
 - Visually construct and manipulate nodes.
 - Foster a deeper understanding of data structure concepts.
